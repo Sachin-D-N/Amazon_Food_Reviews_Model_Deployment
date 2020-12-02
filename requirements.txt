@@ -9,9 +9,6 @@ db==0.1.1
 db-sqlite3==0.0.1
 decorator==4.4.2
 Flask==1.1.2
-ipykernel==5.3.4
-ipython==7.18.1
-ipython-genutils==0.2.0
 isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.17.2
